@@ -1,5 +1,5 @@
 # What is this?
-This is an example application to show how michaelesmith/dyndns-kit can be used.
+This is an example application to show how [michaelesmith/dyndns-kit](https://github.com/michaelesmith/dyndns-kit) can be used.
 
 # Install
 `composer create-project "michaelesmith/dyndns-example" mydyndns`
