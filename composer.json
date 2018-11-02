@@ -1,0 +1,19 @@
+{
+    "name": "michaelesmith/dyndns-example",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Smith",
+            "email": "sitecross@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "michaelesmith/dyndns-kit": "^0.1",
+        "michaelesmith/dyndns-processor-cache": "^0.1",
+        "michaelesmith/dyndns-processor-digitalocean": "^0.1",
+        "cache/filesystem-adapter": "^1.0",
+        "symfony/dotenv": "^4.1"
+    }
+}
